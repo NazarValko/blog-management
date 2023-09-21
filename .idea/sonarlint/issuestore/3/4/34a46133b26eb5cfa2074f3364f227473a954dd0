@@ -1,0 +1,13 @@
+
+e
+java:S1192:"HDefine a constant instead of duplicating this literal "Comment" 3 times.(±á—¡8ÀŠí©1
+o
+java:S62042"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'( …ñ8¹ÀŠí©1
+X
+java:S16122";Replace this lambda with method reference 'this::mapToDTO'.( …ñ8ºÀŠí©1
+]
+java:S1128"@Remove this unused import 'com.springboot.blog.payload.PostDto'.(í§Óû8ÅÀŠí©1
+a
+java:S1128"DRemove this unused import 'com.springboot.blog.service.PostService'.(ßÀë 8ÅÀŠí©1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ÆÀŠí©1
