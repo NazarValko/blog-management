@@ -71,3 +71,9 @@ n
 >src/main/java/com/springboot/blog/payload/JWTAuthResponse.java,4\2\42bc77c7dd4ea24895159bcec5149512079575a6
 p
 @src/main/java/com/springboot/blog/security/JwtTokenProvider.java,e\4\e4c354ee0840407ffac90157224c0999bbacc46a
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+t
+Dsrc/main/java/com/springboot/blog/controller/CategoryController.java,5\3\5364a3d0b1bffa7ecf7b2e6f907ff99bc9e420c8
