@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("api/posts")
+@RequestMapping("api/posts/v1")
 @Tag(name = "CRUD REST APIs for Post Resource")
 public class PostController {
     private PostService postService;
